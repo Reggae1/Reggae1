@@ -37,6 +37,6 @@ I'm a Computer Science graduate and Software Engineer based in Nigeria. I'm pass
 For a quick response, reach me via email:  
 📧 **omoregieefosaj@gmail.com**
 
-<img align="right" alt="coding" width="350" src="https://i.pinimg.com/originals/a3/ef/85/a3ef85411a6084b9d1cf26b7c5293b5e.gif">
+<img align="right" alt="coding" width="480" height="190" src="https://media.istockphoto.com/id/1133924836/photo/programming-code-abstract-technology-background-of-software-developer-and-computer-script.jpg?s=612x612&w=0&k=20&c=qgSlKBhrhnDy48pBa54Y1muEQP18E2pfCsW88qSNGro=">
 
 ![Efosa's GitHub Stats](https://github-readme-streak-stats.herokuapp.com/?user=Reggae1&theme=dark&bg_color=00000000)
